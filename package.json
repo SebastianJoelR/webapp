@@ -1,0 +1,23 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "node": "^11.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
